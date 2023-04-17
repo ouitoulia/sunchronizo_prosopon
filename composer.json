@@ -1,0 +1,25 @@
+{
+    "name": "ouitoulia/sunchronizo_prosopon",
+    "description": "Sunchronìzo pròsopon è un modulo Drupal che importa i ruoli e dati di esempio delle scuole.",
+    "type": "drupal-module",
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/ouitoulia/sunchronizo_prosopon",
+    "authors": [
+        {
+            "name": "Pietro Arturo Panetta",
+            "homepage":"https://www.drupal.org/u/arturopanetta",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ouitoulia/sunchronizo_prosopon/issues",
+        "source": "https://github.com/ouitoulia/sunchronizo_prosopon"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "ouitoulia/prosopon": "^1",
+        "drupal/migrate_plus": "^6",
+        "drupal/migrate_tools": "^6"
+    }
+}

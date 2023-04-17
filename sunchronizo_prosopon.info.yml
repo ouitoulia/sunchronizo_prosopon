@@ -1,0 +1,11 @@
+name: "Sunchronìzo Pròsopon"
+description: Sunchronìzo pròsopon è un modulo Drupal che importa i ruoli e dati di esempio delle scuole.
+package: "Ouitoulía"
+
+type: module
+core_version_requirement: ^10
+dependencies:
+  - ouitoulia:prosopon
+  - drupal:migrate
+  - drupal:migrate_plus
+  - drupal:migrate_tools
