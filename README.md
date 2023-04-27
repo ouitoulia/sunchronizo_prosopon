@@ -1,4 +1,10 @@
 # Sunchronìzo Pròsopon
+
+![GitHub](https://img.shields.io/github/license/ouitoulia/sunchronizo_prosopon?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ouitoulia/sunchronizo_prosopon?sort=semver&style=for-the-badge)
+![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/ouitoulia/sunchronizo_prosopon/drupal/core?style=for-the-badge)
+![Packagist Downloads](https://img.shields.io/packagist/dt/ouitoulia/sunchronizo_prosopon?style=for-the-badge)
+
 Sunchronìzo Pròsopon è un modulo Drupal che sincronizza i dati tipo [Persona](https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=1547596296).
 Questo modulo usa `drupal/migrate` per importare le voci presenti nel repository [Krène](https://github.com/ouitoulia/krene) 
 
