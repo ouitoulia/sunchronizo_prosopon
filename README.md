@@ -16,7 +16,7 @@ Questo modulo usa `drupal/migrate` per importare le voci presenti nel repository
 
 ## Installazione
 Per aggiungere e installare il modulo alla tua installazione esegui:
-```
+```bash
 $ composer require ouitoulia/sunchronizo_prosopon
 $ drush -y en sunchronizo_prosopon
 ```
