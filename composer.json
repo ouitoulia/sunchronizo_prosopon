@@ -19,7 +19,6 @@
     "prefer-stable": true,
     "require": {
         "drupal/core-recommended": "^10",
-        "ouitoulia/prosopon": "^1",
         "drupal/migrate_plus": "^6",
         "drupal/migrate_tools": "^6"
     }
