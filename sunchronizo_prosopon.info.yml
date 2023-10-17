@@ -10,3 +10,8 @@ dependencies:
   - drupal:migrate_plus
   - drupal:migrate_tools
 
+# Information added by GitHub Action packaging script on 2023-10-17
+version: '1.0.6'
+project: 'Sunchronizo_prosopon'
+datestamp: 1697524397
+message: ' release script'
