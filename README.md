@@ -6,7 +6,7 @@
 ![Packagist Dependency Version](https://img.shields.io/packagist/dependency-v/ouitoulia/sunchronizo_prosopon/drupal/core-recommended?style=for-the-badge)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/ouitoulia/sunchronizo_prosopon?style=for-the-badge)
 
-> ⚠ **Questo repository è archiviato.**
+> ⚠ **Questo repository è archiviato. Le funzionalità sono state spostate su `ouitoulia/sunchronizo`**
 
 
 Sunchronìzo Pròsopon è un modulo Drupal che sincronizza i dati tipo [Persona](https://docs.google.com/spreadsheets/d/1MoayTY05SE4ixtgBsfsdngdrFJf_Z2KNvDkMF3tKfc8/edit#gid=1547596296).
