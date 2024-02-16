@@ -11,7 +11,7 @@ dependencies:
   - drupal:migrate_tools
 
 # Information added by GitHub Action packaging script on 2024-02-16
-version: '1.0.7 '
+version: '1.0.9'
 project: 'Sunchronizo_prosopon'
-datestamp: 1708070507
-message: '  up ci to checkout v4 and archive repo'
+datestamp: 1708070713
+message: ' fix README.md'
